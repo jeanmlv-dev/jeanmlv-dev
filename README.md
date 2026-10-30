@@ -1,8 +1,8 @@
 # Jean Mendes
 
-**Data Science · Statistical Programming · Data Engineering**
+**Statistical Programming · Machine Learning · Data Engineering**
 
-Working with Python, R, SQL, and statistical methods to build reproducible data pipelines, analytical solutions, and data-driven applications.
+Building data pipelines, statistical models, and machine learning solutions.
 
 ### Tech Stack
 
@@ -10,10 +10,16 @@ Working with Python, R, SQL, and statistical methods to build reproducible data 
   <img src="https://skillicons.dev/icons?i=python,r,postgres,git,docker,aws&theme=dark" alt="Python, R, PostgreSQL, Git, Docker, AWS" />
 </p>
 
-**Additional tools:** SAS · Streamlit · GitHub Actions
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="42" alt="Streamlit" />
+</p>
 
-### Focus Areas
+**SAS** · **SQL** · **GitHub Actions**
 
-Machine Learning · Predictive Analytics · Data Pipelines · Statistical Modeling · Data Visualization
-
-[LinkedIn](https://www.linkedin.com/in/jeanmlv/) · [GitHub](https://github.com/jeanmendes-dev)
+[LinkedIn](https://www.linkedin.com/in/jeanmlv/)
