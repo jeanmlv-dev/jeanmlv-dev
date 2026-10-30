@@ -1,6 +1,6 @@
 # Jean Mendes
 
-### Tech Stack
+### Technical Expertise
 
 **Statistical Programming**
 
