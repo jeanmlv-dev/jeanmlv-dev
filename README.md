@@ -2,8 +2,6 @@
 
 **Statistical Programming · Data Engineering · Data Analytics**
 
-Python · R · SQL · Machine Learning
-
 ### Tech Stack
 
 **Statistical & Clinical Programming**
