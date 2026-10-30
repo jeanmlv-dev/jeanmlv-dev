@@ -1,10 +1,8 @@
 # Jean Mendes
 
-**Statistical Programming · Data Engineering · Data Analytics**
-
 ### Tech Stack
 
-**Statistical & Clinical Programming**
+**Statistical Programming**
 
 ![SAS](https://img.shields.io/badge/SAS-007CC3?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
